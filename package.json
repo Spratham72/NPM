@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Pratham",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spratham72/NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spratham72/NPM/issues"
+  },
+  "homepage": "https://github.com/Spratham72/NPM#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "qrcode": "^1.4.4"
+  }
+}
